@@ -21,3 +21,6 @@
 3- Aim to find the target number in as few moves as possible!
 
 4- Click "🔄 Restart" to start a new game.
+<img width="1920" height="1005" alt="binary search game" src="https://github.com/user-attachments/assets/14955657-3204-4331-af82-faa1e021ad82" />
+
+<img width="1920" height="1005" alt="binary search game" src="https://github.com/user-attachments/assets/23ec7102-37ff-476c-b48e-289f1fcc5175" />
